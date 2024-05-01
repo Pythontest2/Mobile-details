@@ -1,6 +1,6 @@
 # Mobile-details
-Mobile details
 
-This is will be my second file.
+
+## **Welcome to Github in "Main" Branch"** ##
 
 
