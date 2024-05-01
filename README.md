@@ -1,6 +1,1 @@
-# Mobile-details
-
-
-## **Welcome to Github in "Main" Branch."** ##
-
-
+Hello This is 'Develop' Branch data coming from 'Feature' Branch.
